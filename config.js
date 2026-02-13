@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://www.dropbox.com/scl/fi/guuan6xv3edxn0b56ah0v/Raindance.mp3", // Music streaming URL
+        musicUrl: "https://image2url.com/r2/default/audio/1771006103079-84031384-ee6f-4e19-a929-49d265155b3e.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 1.0                       // Volume level (0.0 to 1.0)
