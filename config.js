@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Latisha Watidar Mahlaba",
+    valentineName: "LATISHA",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Yay! I'm the luckiest person in the world! Ndakajuma Ka💝💓",
         message: "Thank You For Popping Up in Life You mean The World To Me!!",
         emojis: "💝💋❤️💕"  // These will bounce around
     },
